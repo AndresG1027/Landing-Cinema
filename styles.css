@@ -1,5 +1,3 @@
-/* styles.css — mejoras UX/UI manteniendo imágenes tal como están */
-
 :root {
   --accent: #ff5252;
   --dark: #1b1b1f;
@@ -293,3 +291,4 @@ a {
     padding: var(--spacing / 2);
   }
 }
+
